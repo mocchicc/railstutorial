@@ -1,0 +1,3 @@
+== README
+
+* Studying RailsTutorial second.
